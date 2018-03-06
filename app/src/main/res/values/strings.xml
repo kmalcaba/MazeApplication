@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Maze Generator and Solver</string>
+    <string name="txt_legend">• - traversed path \n⬤ - final solved path</string>
+    <string name="btn_shuffle">Shuffle</string>
+    <string name="btn_solve">Solve</string>
+    <string name="btn_change_dim">Change Maze Size</string>
+</resources>

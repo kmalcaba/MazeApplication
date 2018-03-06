@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MazeView">
+        <attr name="cellWidth" format="dimension" />
+        <attr name="pixelWidth" format="dimension" />
+        <attr name="pixelHeight" format="dimension" />
+        <attr name="ballDiam" format="dimension" />
+    </declare-styleable>
+
+</resources>
